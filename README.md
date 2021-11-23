@@ -2,10 +2,11 @@
 
 - https://ohmyz.sh/
 - https://brew.sh/
-- https://tldr.sh/
-- http://asdf-vm.com/
-- https://direnv.net/
-- https://www.mozilla.org/en-US/firefox/
-- https://www.spectacleapp.com/
-- https://1password.com/
+- `brew install tldr`
+- `brew install asdf`
+- `brew install direnv`
+- `brew install --cask firefox`
+- `brew install --cask spectacle`
+- `brew install --cask 1password`
+- `brew install --cask vox`
 - `brew install --cask rocket`
