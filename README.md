@@ -8,3 +8,4 @@
 - https://www.mozilla.org/en-US/firefox/
 - https://www.spectacleapp.com/
 - https://1password.com/
+- `brew install --cask rocket`
